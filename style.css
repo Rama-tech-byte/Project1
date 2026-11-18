@@ -1,11 +1,8 @@
 :root {
   --ink: #171b22;
-  --navy: #101722;
-  --panel: #182333;
   --red: #f04438;
   --orange: #ff9b45;
   --muted: #667181;
-  --light: #f4f6f8;
 }
 
 * {
